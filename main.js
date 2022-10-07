@@ -13,7 +13,7 @@ const utils = require("./lib/utils");
 const {
 	fetchLatestBaileysVersion,
 	makeInMemoryStore,
-	default: Baileys,
+	default: Dilzpx,
 	useSingleFileAuthState,
 	jidDecode,
 	DisconnectReason,
